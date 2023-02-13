@@ -1,0 +1,11 @@
+Ethereum Intelligence (EI) is a blockchain-based platform that provides users with a comprehensive suite of tools to help them navigate the Ethereum blockchain. It offers a variety of tools, including an easy-to-use wallet, a portfolio tracker, a market data feed, and analytics tools.
+
+EI's wallet allows users to securely store, send, and receive Ether (ETH) and other Ethereum-based tokens. It also provides users with a simple and intuitive interface for managing their Ethereum accounts.
+
+EI's portfolio tracker allows users to view their portfolio performance in real-time, and to track their holdings across multiple exchanges. It also provides users with a visual representation of their portfolio performance over time.
+
+EI's market data feed provides users with real-time updates on the latest prices and trading activity for Ethereum-based assets. It also provides users with an overview of the Ethereum market and its performance.
+
+Finally, EI's analytics tools allow users to analyze their portfolios, identify trends, and make informed decisions about their investments. The platform also provides users with access to a variety of resources, such as tutorials, guides, and news updates.
+
+Ethereum Intelligence is a powerful platform that provides users with the tools they need to make informed decisions about their investments in the Ethereum blockchain. With its comprehensive suite of tools, Ethereum Intelligence is the perfect tool for any Ethereum investor.
